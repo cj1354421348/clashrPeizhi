@@ -1,3 +1,2 @@
 #全局代理 应该放最后吧
-DOMAIN-SUFFIX,.*
 IP-CIDR,0.0.0.0/0,no-resolve
